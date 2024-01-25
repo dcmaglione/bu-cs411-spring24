@@ -18,7 +18,7 @@ Just for fun, here is a three that shows how the repository is organized.
 .
 ├── LICENSE
 ├── README.md
-├── resources.md
+├── missing_semester
 ├── lab_assignments
 ├── lab_slides
 ├── sample_code
